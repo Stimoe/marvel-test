@@ -1,0 +1,38 @@
+
+.title {
+  width: 100%;
+  text-align: center;
+  color: red;
+  height: 100%;
+  background-color: aqua;
+}
+.theCards {
+
+  background-image: url("../public/images/thumb-1920-570875.png");
+
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-around;
+  align-content: flex-start;
+  overflow: auto;
+
+}
+
+
+.score {
+  width: 100%;
+  text-align: center;
+  float: left;
+  color: blue;
+
+}
+.winScreen {
+  text-align: center;
+  margin:auto;
+}
+.headerStuff{
+
+  border-radius: 25px;
+  margin: auto;
+  
+}

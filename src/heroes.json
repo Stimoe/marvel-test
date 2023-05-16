@@ -1,0 +1,86 @@
+[
+    {
+      "id": 1,
+      "name": "WOLVERINE",
+      "image": "./images/wolverine.jpg",
+      "occupation": "SuperHero",
+      "location": "Earth"
+    },
+    {
+      "id": 2,
+      "name": "SPIDERMAN",
+      "image": "./images/spider-manergh.jpg",
+      "occupation": "Newspaper photographer",
+      "location": "Earth"
+    },
+    {
+      "id": 3,
+      "name": "THOR",
+      "image": "./images/Thor.jpg",
+      "occupation": "Superhero",
+      "location": "Earth"
+    },
+    {
+      "id": 4,
+      "name": "IRON MAN",
+      "image": "./images/ironman.jpg",
+      "occupation": "Superhero",
+      "location": "Earth"
+    },
+    {
+      "id": 5,
+      "name": "HULK",
+      "image": "./images/Hulk.jpg",
+      "occupation": "Scientist",
+      "location": "Earth"
+    },
+    {
+      "id": 6,
+      "name": "CAPTAIN AMERICA",
+      "image": "./images/captain-america.jpg",
+      "occupation": "Superhero",
+      "location": "Earth"
+    },
+    {
+      "id": 7,
+      "name": "DARE DEVIL",
+      "image": "./images/Daredevil.jpg",
+      "occupation": "Attorney",
+      "location": "Earth"
+    },
+    {
+      "id": 8,
+      "name": "THE PUNISHER",
+      "image": "./images/the-punisher.jpg",
+      "occupation": "Superhero",
+      "location": "Earth"
+    },
+    {
+      "id": 9,
+      "name": "DEADPOOL",
+      "image": "./images/deadpools.jpg",
+      "occupation": "Super Hero",
+      "location": "Earth"
+    },
+    {
+      "id": 10,
+      "name": "SILVER SURFER",
+      "image": "./images/silver-surfers.jpg",
+      "occupation": "Superhero",
+      "location": "Earth"
+    },
+    {
+      "id": 11,
+      "name": "GAMBIT",
+      "image": "./images/Gambit.jpg",
+      "occupation": "Superhero",
+      "location": "Earth"
+    },
+    {
+      "id": 12,
+      "name": "CYCLOPS",
+      "image": "./images/cyclops.jpg",
+      "occupation": "Super Hero",
+      "location": "Earth"
+    }
+  ]
