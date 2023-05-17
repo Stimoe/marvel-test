@@ -9,7 +9,7 @@
     {
       "id": 2,
       "name": "SPIDERMAN",
-      "image": "../public/images/thumb-1920-570875.png",
+      "image": "./images/thumb-1920-570875.png",
       "occupation": "Newspaper photographer",
       "location": "Earth"
     },
